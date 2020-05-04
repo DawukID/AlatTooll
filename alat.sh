@@ -12,9 +12,9 @@ white='\033[37;1m'
 yellow='\033[33;1m'
 clear
 echo "\033[36;1m[]=====================================================[]"|lolcat
-echo "\033[37;1m[] AUTHOR :  RISKI DARMAWAN                            []"|lolcat
-echo "\033[35;1m[] W A    :   085836465872                             []"|lolcat
-echo "\033[36;1m[] NO HP  : 085835295133                               []"|lolcat
+echo "\033[37;1m[] AUTHOR :  DAWUKID                            []"|lolcat
+echo "\033[35;1m[] W A    :   083896608652                             []"|lolcat
+echo "\033[36;1m[] NO HP  : 083896608652                               []"|lolcat
 echo "\033[31;1m[] PESAN  : GUNAKAN TOOLS INI DENGAN BIJAK             []"|lolcat
 echo "\033[36;1m[]=====================================================[]"|lolcat
 echo "\033[36;1m-------=========[ KEPERLUAN ALAT ONLINE ]========------"|lolcat
